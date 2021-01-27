@@ -1,0 +1,9 @@
+# Include single file
+# include *.md
+
+# Exclude single file
+# exclude .travis.yml
+# exclude data/private/file.env
+
+# Exclude multi files
+global-exclude *_test.py
